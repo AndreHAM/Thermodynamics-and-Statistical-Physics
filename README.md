@@ -15,4 +15,4 @@ Usefull tools and codes to study and teach topics on thermodynamics and statisti
 
 ### Content (for now):
 
-- 
+- Ideal gases: Isothermal and adiabatic processes
