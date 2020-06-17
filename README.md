@@ -5,7 +5,7 @@
 **Language/Software:** *mathematica vs 12*
 
 #### Abstract:
-Usefull tools and codes to study and teach topics on thermodynamics and statistical physics. Some of these codes could be found on the excellent thermodynamics textbook from Prigogine and Kondepudi [1].
+Usefull tools and codes to study and teach topics on thermodynamics and statistical physics. Some similar and simple codes could be found on the excellent thermodynamics textbook from Prigogine and Kondepudi [1].
 
 
 ### References: 
@@ -15,4 +15,5 @@ Usefull tools and codes to study and teach topics on thermodynamics and statisti
 
 ### Content (for now):
 
-- Ideal gases: Isothermal and adiabatic processes
+- Ideal gases: Isothermal and adiabatic processes;
+- Carnot cycle;
