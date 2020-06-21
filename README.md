@@ -15,6 +15,6 @@ Usefull tools and codes to study and teach topics on thermodynamics and statisti
 
 ### Content (for now):
 
-- Ideal gases: Isothermal and adiabatic processes;
-- Carnot cycle;
-- Brownian motion: 1D and 3D simulation with Langevin equation;
+- Ideal gases tutorial: Isothermal and adiabatic processes;
+- Carnot cycle tutorial;
+- Brownian motion tutorial: 1D and 3D simulation with Langevin equation;
