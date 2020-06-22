@@ -9,12 +9,6 @@
 #### Abstract:
 Usefull tools and codes to study and teach topics on thermodynamics and statistical physics. Some similar and simpler codes could be found on the excellent thermodynamics textbook from Prigogine and Kondepudi [1].
 
-
-### References: 
-
-**[1]** *Modern Thermodynamics: From Heat Engines to Dissipative Structures*, Prigogine; Ilya and Kondepudi, Dilip
-
-
 ### Content (for now):
 
 #### Mathematica
@@ -25,3 +19,10 @@ Usefull tools and codes to study and teach topics on thermodynamics and statisti
 #### Python
 
 - Isothermal processes: Interactive plot of a isothermal process 
+
+
+
+### References: 
+
+**[1]** *Modern Thermodynamics: From Heat Engines to Dissipative Structures*, Prigogine; Ilya and Kondepudi, Dilip
+
