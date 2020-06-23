@@ -18,7 +18,8 @@ Usefull tools and codes to study and teach topics on thermodynamics and statisti
 
 #### *Python*
 
-- Isothermal processes for ideal gases: Interactive plot of a isothermal process 
+- Isothermal processes for ideal gases: Interactive plot of a isothermal process;
+- Adiabatic processes for ideal gases: Interactive plot of a adiabatic process
 
 
 
