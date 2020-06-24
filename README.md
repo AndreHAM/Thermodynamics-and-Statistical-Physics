@@ -7,7 +7,7 @@
 **Language/Software:** *mathematica vs 12* || *python*
 
 #### Abstract:
-Usefull tools and codes to study and teach topics on thermodynamics and statistical physics. Some similar and simpler codes could be found on the excellent thermodynamics textbook from Prigogine and Kondepudi [1].
+Usefull tools and codes to study and teach topics on thermodynamics and statistical physics.
 
 ### Content (for now):
 
