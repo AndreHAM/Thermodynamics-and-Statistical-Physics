@@ -21,7 +21,7 @@ Usefull tools and codes to study and teach topics on thermodynamics and statisti
 - Isothermal processes for ideal gases: Interactive plot of a isothermal process;
 - Adiabatic processes for ideal gases: Interactive plot of a adiabatic process;
 - Brownian motion tutorial: 1D and 3D simulation with Langevin equation;
-
+- Logistic map: An interactive plot of the logistic map and the bifurcation diagram;
 
 
 ### References: 
