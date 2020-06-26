@@ -11,7 +11,7 @@
 
 
 #### Abstract:
-Usefull tools and codes to study and teach topics on thermodynamics and statistical physics.
+>Usefull tools and codes to study and teach topics on thermodynamics and statistical physics.
 
 _______
 
