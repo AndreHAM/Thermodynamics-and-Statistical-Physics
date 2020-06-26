@@ -1,0 +1,5 @@
+### Requirements for binder (https://mybinder.org/)
+
+matplotlib==3.2.1
+numpy==1.18.5
+scipy==1.4.1 
