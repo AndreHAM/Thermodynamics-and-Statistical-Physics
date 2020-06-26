@@ -1,7 +1,7 @@
 # Thermodynamics and Statistical Physics
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AndreHAM/Thermodynamics-and-Statistical-Physics/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AndreHAM/Thermodynamics-and-Statistical-Physics/master) or click [here](https://mybinder.org/v2/gh/AndreHAM/Thermodynamics-and-Statistical-Physics/master "codes on Binder") to access these codes
 
-Or click [here](https://mybinder.org/v2/gh/AndreHAM/Thermodynamics-and-Statistical-Physics/master "codes on Binder") to access these codes
+
 
 
 #### Codes and tools on thermo and statistical physics.
